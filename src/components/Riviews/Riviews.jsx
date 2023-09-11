@@ -9,9 +9,9 @@ const Riviews = () => {
       </div>
       <div className="review">
         <div className="revs">
-        <img className="rate" src="../src/assets/rating.png" alt="" />
+        <img className="rate" src="../src/assets/rating.png" alt="rating" />
         <div className="smallBox">
-        <img className="rm" src="../src/assets/profile.png" alt="" />
+        <img className="rm" src="../src/assets/profile.png" alt="profile" />
           <h4 className='name'>Joy Chakraborty</h4>
           <p className='rev1'>
             Loved the product ...
@@ -19,9 +19,9 @@ const Riviews = () => {
           </div>
         </div>
         <div className="revs">
-        <img className="rate" src="../src/assets/rating.png" alt="" />
+        <img className="rate" src="../src/assets/rating.png" alt="rating" />
         <div className="smallBox">
-        <img className="rm" src="../src/assets/profile.png" alt="" />
+        <img className="rm" src="../src/assets/profile.png" alt="profile" />
         <h4 className='name'>Jhon Doe</h4>
           <p className='rev1'>
             Product was great ...
@@ -29,9 +29,9 @@ const Riviews = () => {
           </div>
         </div>
         <div className="revs">
-        <img className="rate" src="../src/assets/rating.png" alt="" />
+        <img className="rate" src="../src/assets/rating.png" alt="rating" />
         <div className="smallBox">
-          <img className="rm" src="../src/assets/profile.png" alt="" />
+          <img className="rm" src="../src/assets/profile.png" alt="profile" />
         <h4 className='name'>Saiman Says</h4>
           <p className='rev1'>
             Say sena also liked that.
@@ -39,9 +39,9 @@ const Riviews = () => {
           </div>
         </div>
         <div className="revs">
-        <img className="rate" src="../src/assets/rating.png" alt="" />
+        <img className="rate" src="../src/assets/rating.png" alt="rating" />
         <div className="smallBox">
-        <img className="rm" src="../src/assets/profile.png" alt="" />
+        <img className="rm" src="../src/assets/profile.png" alt="profile" />
         <h4 className='name'>PewDiePie</h4>
           <p className='rev1'>
             9 yo are liking this.

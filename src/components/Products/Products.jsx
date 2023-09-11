@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react";product
 import "./Products.css";
 
 const Products = () => {
@@ -6,7 +6,7 @@ const Products = () => {
     <div className="all">
       <div className="rowos-one">
         <div className="card1-row-1">
-          <img id="imgRow1" src="../src/assets/website.jpeg" alt="" />
+          <img id="imgRow1" src="../src/assets/website.jpeg" alt="product" />
           <p className="textRow1-card1 para">
             Web Development
             <h3>₹ 3000</h3>
@@ -14,7 +14,7 @@ const Products = () => {
           </p>
         </div>
         <div className="card2-row-1">
-          <img id="imgRow1" src="../src/assets/ios.jpeg" alt="" />
+          <img id="imgRow1" src="../src/assets/ios.jpeg" alt="product" />
           <p className="textRow1-card2 para">
             Android
             <h3>₹ 3000</h3>
@@ -22,7 +22,7 @@ const Products = () => {
           </p>
         </div>
         <div className="card3-row-1">
-          <img id="imgRow1" src="../src/assets/app.jpeg" alt="" />
+          <img id="imgRow1" src="../src/assets/app.jpeg" alt="product" />
           <p className="textRow1-card3 para">
             IOS
             <h3>₹ 3000</h3>
@@ -30,7 +30,7 @@ const Products = () => {
           </p>
         </div>
         <div className="card4-row-1">
-          <img id="imgRow1" src="../src/assets/fullstack.jpeg" alt="" />
+          <img id="imgRow1" src="../src/assets/fullstack.jpeg" alt="product" />
           <p className="textRow1-card4 para">
             Full Stack
             <h3>₹ 3000</h3>

@@ -15,11 +15,11 @@ const Nav = () => {
         <div className="right">
           <div className="right-left">
             <h5 className='write'>Cart</h5>
-            <img className='photu' src="../src/assets/cart.png" alt="" />
+            <img className='photu' src="../src/assets/cart.png" alt="cart" />
           </div>
           <div className="right-right">
           <h5 className='write'>Log In</h5>
-            <img className='photu' src="../src/assets/profile.png" alt="" />
+            <img className='photu' src="../src/assets/profile.png" alt="profile" />
           </div>
         </div>
        </div>
